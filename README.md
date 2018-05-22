@@ -1,8 +1,16 @@
 # consul_guides_zh
-本文档翻译自官方文档[Getting Started](https://www.consul.io/intro/getting-started/install.html)部分，其它部分暂时无
-- [1.consul安装](install/01.md)
-- [2.consul升级](upgrading/02.md)
-- [3.consul架构](internals/03.md)
-- [4.consul命令选项](commands/04.md)
-- [5.agent](agent/05.md)
-- [6.consul使用指南](guides/06.md)
+本文档翻译自官方文档[Docs](https://www.consul.io/docs/install/index.html)，其它部分暂时无
+* [1.consul安装](install/01.md)
+* [2.consul升级](upgrading/02.md)
+* [3.consul内部实现](internals/03.md)
+    - [3.1.Architecture](internals/03.1.md)
+    - [3.2.Consensus Protocol](internals/03.2.md)
+    - [3.3.Gossip Protocol](internals/03.3.md)
+    - [3.4.Network Coordinates](internals/03.4.md)
+    - [3.5.Sessions](internals/03.5.md)
+    - [3.6.Anti-Entropy](internals/03.6.md)
+    - [3.7.Security Model](internals/03.7.md)
+    - [3.8.Jepsen Testing](internals/03.8.md)
+* [4.consul命令选项](commands/04.md)
+* [5.agent](agent/05.md)
+* [6.consul使用指南](guides/06.md)
