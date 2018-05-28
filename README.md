@@ -10,7 +10,7 @@
         - [3.5.健康检查](intro/03.5.md)
         - [3.6.KV Data](intro/03.6.md)
         - [3.7.Web UI](intro/03.7.md)
-        - [3.8.Next Steps](intro/03.8.md)
+        - [3.8.Next Steps](intro/03.7.md)
 * Docs
     * [1.consul安装](docs/install/01.md)
     * [2.consul升级](docs/upgrading/02.md)
