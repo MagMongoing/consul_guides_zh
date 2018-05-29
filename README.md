@@ -26,3 +26,10 @@
     * [4.consul命令选项](docs/commands/04.md)
     * [5.agent](docs/agent/05.md)
 * [Guides](guides/01.md)
+
+* 部署测试
+    * 单节点集群
+       [集群启动测试](examples/01.1.md)
+       [健康检查](examples/01.2.md)
+       [KV存储](examples/01.3.md)
+
